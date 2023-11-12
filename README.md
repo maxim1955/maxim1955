@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1">
+  <a href="https://github.com/maxim1955">
     <img src="download (1).gif" />
   </a>
-  <a href="https://github.com/DenverCoder1">
+  <a href="https://github.com/maxim1955">
     <img src="download.gif" /></a>
 </p>
 
