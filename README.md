@@ -3,7 +3,7 @@
     <img src="download (1).gif" />
   </a>
   <a href="https://github.com/maxim1955">
-    <img src="Fronted.gif" /></a>
+    <img src="Frontend.gif" /></a>
 </p>
 
 <picture>
