@@ -6,17 +6,7 @@
     <img src="Frontend.gif" /></a>
 </p>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=maxim1955&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=maxim1955&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=maxim1955&show_icons=true" />
-</picture>
+
  <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
